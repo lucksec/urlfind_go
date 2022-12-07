@@ -1,5 +1,16 @@
 # urlfind
 
+# OPENAI
+
+OpenAI公布了最新的一个基于AI的对话系统ChatGPT3.5。根据官方介绍，ChatGPT以对话方式进行交互。对话格式使ChatGPT能够回答后续问题、承认错误、质疑不正确的前提和拒绝不适当的请求。ChatGPT是InstructGPT的兄弟模型，它被训练为在提示中遵循指令并提供详细的响应。
+
+OpenAI开放了一个在线演示的系统（地址：https://chat.openai.com/auth/login ）
+
+这几天这个AI火爆整个安全行业
+
+虽然有时候回答的很勉强但不得不说AI的检索能力还是很强的
+
+期待GPT4能快速训练出一个更完美的AI
 
 
 
@@ -8,6 +19,8 @@
 <p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.5em 0px;">大家可自行修改<br><code style="font-size: inherit; line-height: inherit; overflow-wrap: break-word; padding: 2px 4px; border-radius: 4px; margin: 0px 2px; color: rgb(233, 105, 0); background: rgb(248, 248, 248);">如果感觉不错，欢迎给项目点个Star或者分享给其他师傅</code></p></div>
 
 利用OPENAI生成的GO代码
+稍加修改即可成为一个工具
+配合httpx可探测网址指纹信息等。。。。
 稍微改动一下
 
 # 配合httpx一起使用效果
